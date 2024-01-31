@@ -5,13 +5,13 @@ Este es un proyecto simple de Buscaminas implementado en Python. El juego se jue
 ## Instalación
 
 No se requieren instalaciones especiales, ya que el juego utiliza solo la biblioteca estándar de Python. Simplemente clona el repositorio a tu máquina local:
-git clone https://github.com/tu-usuario/minesweeper.git
+git clone https://github.com/M3rsy/buscaminas.git
 
 ## Cómo Jugar
 
-Para iniciar el juego, ejecuta el archivo `minesweeper.py` en tu terminal:
+Para iniciar el juego, ejecuta el archivo `buscaminas.py` en tu terminal:
 
-python minesweeper.py
+python buscaminas.py
 
 Sigue las instrucciones en pantalla para jugar. El juego te pedirá que ingreses las coordenadas (fila y columna) para revelar las celdas. El objetivo es revelar todas las celdas sin minas.
 
